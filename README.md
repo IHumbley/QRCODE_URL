@@ -2,8 +2,8 @@
 A simple PHP API to change URL to QR code...
 
 # How to use?
-URL/index.php?url=https://google.com \n
-\n
+URL/index.php?url=https://google.com <br/>
+<br/>
 **OutPut** : __PNG__ <br/>
 **Lang** : __PHP__ <br/>
 # custumize
